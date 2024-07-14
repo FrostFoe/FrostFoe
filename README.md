@@ -18,27 +18,22 @@
 </p>
 
 <p align="center">
-  **🌐 Engaged in InfoSec with a passion for cybersecurity.**<br>
-  **🔍 Seeking collaborations with like-minded professionals.**<br>
-  **💬 Let's discuss cybersecurity and cutting-edge web development.**<br>
-  **🐞 Bug bounty hunting on HackerOne and Bugcrowd.**<br>
-  **🎮 Delving into CTF challenges to hone skills.**
-</p>
-
-<p align="center">
-  Find me on HackerOne: <a href="https://hackerone.com/mr_prey3r?type=user">HackerOne Profile</a><br>
-  Find me on Bugcrowd: <a href="https://bugcrowd.com/MR_Prey3r">Bugcrowd Profile</a>
+  🌐 Engaged in InfoSec with a passion for cybersecurity.<br>
+  🔍 Seeking collaborations with like-minded professionals.<br>
+  💬 Let's discuss cybersecurity and cutting-edge web development.<br>
+  🐞 Bug bounty hunting on <a href="https://hackerone.com/FrostFoe?type=user"><img src="https://img.shields.io/badge/HackerOne-Profile-brightgreen?style=for-the-badge&logo=hackerone&logoColor=white" alt="HackerOne"></a> and <a href="https://bugcrowd.com/FrostFoe"><img src="https://img.shields.io/badge/Bugcrowd-Profile-brightgreen?style=for-the-badge&logo=bugcrowd&logoColor=white" alt="Bugcrowd"></a>.<br>
+  🎮 Delving into CTF challenges to hone skills.
 </p>
 
 ## 🌐 Socials:
 <p align="center">
-  <a href="https://twitter.com/MR_Prey3r">
+  <a href="https://twitter.com/FrostFoe">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter">
   </a>
   <a href="https://t.me/FrostFoe">
     <img src="https://img.shields.io/badge/Telegram-%232CA5E0.svg?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram">
   </a>
-  <a href="https://www.instagram.com/mr_prey3r/">
+  <a href="https://www.instagram.com/FrostFoe/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
   </a>
   <a href="https://discordapp.com/users/1234567890">
@@ -82,7 +77,7 @@
   <img src="https://img.shields.io/badge/Open%20Source%20Contributions-blue?style=for-the-badge">
 </p>
 <p align="center">
-  **Dedicated to contributing to open-source projects driving innovation and security.**
+  Dedicated to contributing to open-source projects driving innovation and security.
 </p>
 
 ## 💡 Codewars Stats
@@ -110,11 +105,11 @@
 
 ## 🌟 Highlights
 <p align="center">
-  <span style="color: #3498db;">🧩 Solving puzzles and strategizing solutions.</span><br>
-  <span style="color: #e74c3c;">🎨 Passionate about 3D art with Blender.</span><br>
-  <span style="color: #9b59b6;">🌍 Committed to fostering global developer community growth.</span>
+  🧩 Solving puzzles and strategizing solutions.<br>
+  🎨 Passionate about 3D art with Blender.<br>
+  🌍 Committed to fostering global developer community growth.
 </p>
 
 <p align="center">
-  <b><span style="color: #e74c3c;">Embark on the journey of innovation with me... 🚀</span></b>
+  Let the Dragon's Wrath begin... 🔥🐉
 </p>
