@@ -1,31 +1,73 @@
-# Hi there, I'm FrostFoe! 👋
+# Hi, I'm FrostFoe! 👾✨  
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=FrostFoe&style=flat-square&color=blue" alt="Profile Views">
   <img src="https://img.shields.io/github/followers/FrostFoe?label=Follow&style=social" alt="GitHub Followers">
 </p>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/99184393/157828739-373d24b3-0d27-4dd2-baba-7d1ab10b4d56.gif" alt="Coding" width="600">
-</p>
+---
 
-## 💫 Who is FrostFoe? / About Me:
+## 🌌 About Me  
+Hi, I'm **FrostFoe** – an innovator, breaker of norms, and builder of the extraordinary. I'm deeply entrenched in the world of **cybersecurity**, blending creativity and precision to explore the unknown. From **ethical hacking** to crafting resilient **digital defenses**, my focus lies on solving real-world challenges while having fun in the process.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/InfoSec-Enthusiast-blueviolet?style=for-the-badge&logoColor=white" alt="InfoSec Enthusiast">
-  <img src="https://img.shields.io/badge/Bug%20Bounty-Hunter-brightgreen?style=for-the-badge&logoColor=white" alt="Bug Bounty Hunter">
-  <img src="https://img.shields.io/badge/CTF-Player-yellow?style=for-the-badge&logoColor=white" alt="CTF Player">
-</p>
+
+## 🌐 Digital Arsenal  
 
 <p align="center">
-  🌐 Engaged in InfoSec with a passion for cybersecurity.<br>
-  🔍 Seeking collaborations with like-minded professionals.<br>
-  💬 Let's discuss cybersecurity and cutting-edge web development.<br>
-  🐞 Bug bounty hunting on <a href="https://hackerone.com/FrostFoe?type=user"><img src="https://img.shields.io/badge/HackerOne-Profile-brightgreen?style=for-the-badge&logo=hackerone&logoColor=white" alt="HackerOne"></a> and <a href="https://bugcrowd.com/FrostFoe"><img src="https://img.shields.io/badge/Bugcrowd-Profile-brightgreen?style=for-the-badge&logo=bugcrowd&logoColor=white" alt="Bugcrowd"></a>.<br>
-  🎮 Delving into CTF challenges to hone skills.
+  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/Shell_Scripting-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white">
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
+  <img src="https://img.shields.io/badge/Vim-%2314C27C.svg?style=for-the-badge&logo=vim&logoColor=white">
+  <img src="https://img.shields.io/badge/VirtualBox-%233E3D3D.svg?style=for-the-badge&logo=virtualbox&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript_Framework-%23323330?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white">
+  <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white">
+  <img src="https://img.shields.io/badge/Hacker_One-DA2C1C?style=for-the-badge&logo=hackerone&logoColor=white">
+  <img src="https://img.shields.io/badge/Truffle-FF6347?style=for-the-badge&logo=truffle&logoColor=white">
+  <img src="https://img.shields.io/badge/Go-%23E94E1B.svg?style=for-the-badge&logo=go&logoColor=white">
+  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white">
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/Cloud_Native-%2348A9A6.svg?style=for-the-badge&logo=cloud-native&logoColor=white">
+  <img src="https://img.shields.io/badge/Kubernetes-%2336C3F7.svg?style=for-the-badge&logo=kubernetes&logoColor=white">
+  <img src="https://img.shields.io/badge/Zero_Day-FF3333?style=for-the-badge&logo=security&logoColor=white">
+  <img src="https://img.shields.io/badge/Red_Team-FF5733?style=for-the-badge&logo=security&logoColor=white">
+  <img src="https://img.shields.io/badge/Blue_Team-1F8BFF?style=for-the-badge&logo=security&logoColor=white">
 </p>
 
-## 🌐 Socials:
+
+---
+
+## 📈 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FrostFoe&theme=radical&hide_border=true&show_icons=true&count_private=true" alt="GitHub Stats"><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FrostFoe&theme=radical&hide_border=true" alt="GitHub Streak"><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrostFoe&theme=radical&hide_border=true&layout=compact" alt="Top Languages">
+</p>
+
+---
+
+## 🌟 Did you know?  
+- My **personal projects** have been used for real-world cyberattacks for defense testing.  
+- I build **custom tools** to automate security workflows and discover vulnerabilities faster.  
+- My scripts and solutions are praised for being clean, **optimized**, and **cool-looking**.  
+
+---
+
+## 🔮 Vision  
+I believe in **making the internet a safer place** for everyone while pushing the boundaries of technology. Whether it's by **disrupting outdated systems** or building **futuristic applications**, my mission is to inspire change and elevate innovation.
+
+---
+
+## 🌟 Connect With Me  
+
 <p align="center">
   <a href="https://twitter.com/FrostFoe">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter">
@@ -41,75 +83,7 @@
   </a>
 </p>
 
-## 💻 Tech Stack:
-<p align="center">
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
-  <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white">
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white">
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
-  <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white">
-  <img src="https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white">
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white">
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-</p>
+---
 
-## 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FrostFoe&theme=radical&hide_border=true&show_icons=true&count_private=true" alt="GitHub Stats"><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FrostFoe&theme=radical&hide_border=true" alt="GitHub Streak"><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrostFoe&theme=radical&hide_border=true&layout=compact" alt="Top Languages">
-</p>
+<p align="center">👾 Keep hacking, keep learning, and stay curious! 👾</p>
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=FrostFoe&theme=radical&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies">
-</p>
-
-## 💥 Open Source Contributions
-<p align="center">
-  <img src="https://img.shields.io/badge/Open%20Source%20Contributions-blue?style=for-the-badge">
-</p>
-<p align="center">
-  Dedicated to contributing to open-source projects driving innovation and security.
-</p>
-
-## 💡 Codewars Stats
-<p align="center">
-  <img src="https://www.codewars.com/users/FrostFoe/badges/large" alt="Codewars Badge">
-</p>
-
-## 🎨 Visual Projects
-<p align="center">
-  <a href="https://github.com/FrostFoe/Blender-Projects">
-    <img src="https://img.shields.io/badge/Blender-Projects-orange?style=for-the-badge&logo=blender&logoColor=white" alt="Blender Projects">
-  </a>
-  <a href="https://github.com/FrostFoe/Web-Dev-Projects">
-    <img src="https://img.shields.io/badge/Web%20Dev%20Projects-green?style=for-the-badge&logo=javascript&logoColor=white" alt="Web Dev Projects">
-  </a>
-  <a href="https://github.com/FrostFoe/CyberSec-Tools">
-    <img src="https://img.shields.io/badge/CyberSec-Tools-red?style=for-the-badge&logo=shield&logoColor=white" alt="CyberSec Tools">
-  </a>
-</p>
-
-### ✍️ Random Dev Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote">
-</p>
-
-## 🌟 Highlights
-<p align="center">
-  🧩 Solving puzzles and strategizing solutions.<br>
-  🎨 Passionate about 3D art with Blender.<br>
-  🌍 Committed to fostering global developer community growth.
-</p>
-
-<p align="center">
-  Let the Dragon's Wrath begin... 🔥🐉
-</p>
