@@ -19,26 +19,13 @@ Hi, I'm **FrostFoe** – an innovator, breaker of norms, and builder of the extr
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-  <img src="https://img.shields.io/badge/Shell_Scripting-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white">
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
   <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
-  <img src="https://img.shields.io/badge/Vim-%2314C27C.svg?style=for-the-badge&logo=vim&logoColor=white">
-  <img src="https://img.shields.io/badge/VirtualBox-%233E3D3D.svg?style=for-the-badge&logo=virtualbox&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript_Framework-%23323330?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white">
-  <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white">
   <img src="https://img.shields.io/badge/Hacker_One-DA2C1C?style=for-the-badge&logo=hackerone&logoColor=white">
-  <img src="https://img.shields.io/badge/Truffle-FF6347?style=for-the-badge&logo=truffle&logoColor=white">
   <img src="https://img.shields.io/badge/Go-%23E94E1B.svg?style=for-the-badge&logo=go&logoColor=white">
-  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white">
   <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/Cloud_Native-%2348A9A6.svg?style=for-the-badge&logo=cloud-native&logoColor=white">
-  <img src="https://img.shields.io/badge/Kubernetes-%2336C3F7.svg?style=for-the-badge&logo=kubernetes&logoColor=white">
-  <img src="https://img.shields.io/badge/Zero_Day-FF3333?style=for-the-badge&logo=security&logoColor=white">
-  <img src="https://img.shields.io/badge/Red_Team-FF5733?style=for-the-badge&logo=security&logoColor=white">
-  <img src="https://img.shields.io/badge/Blue_Team-1F8BFF?style=for-the-badge&logo=security&logoColor=white">
 </p>
 
 
