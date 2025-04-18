@@ -1,4 +1,4 @@
-# Hi, I'm FrostFoe! 👾✨  
+# 👾 Hey, I’m FrostFoe!
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=FrostFoe&style=flat-square&color=blue" alt="Profile Views">
@@ -7,11 +7,16 @@
 
 ---
 
-## 🌌 About Me  
-Hi, I'm **FrostFoe** – an innovator, breaker of norms, and builder of the extraordinary. I'm deeply entrenched in the world of **cybersecurity**, blending creativity and precision to explore the unknown. From **ethical hacking** to crafting resilient **digital defenses**, my focus lies on solving real-world challenges while having fun in the process.
+## 💬 Who Am I?
 
+I’m that person who looks at a website and wonders, *“What if I could break this… but for a good reason?”* 😎  
+Hi! I’m **FrostFoe** — cybersecurity nerd, ethical hacker, and the mind behind **thnbangladesh** (The Hacker News বাংলা).
 
-## 🌐 Digital Arsenal  
+I don’t just tinker with tech — I live in the world of it. I love figuring out how systems work, how they break, and most importantly — how to **make them stronger**. My goal? To help people feel safe in the online world, just like they should in the real one.
+
+---
+
+## 🛠️ What I Use to Fight the Good Fight
 
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
@@ -22,53 +27,70 @@ Hi, I'm **FrostFoe** – an innovator, breaker of norms, and builder of the extr
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
   <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
-  <img src="https://img.shields.io/badge/JavaScript_Framework-%23323330?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
   <img src="https://img.shields.io/badge/Hacker_One-DA2C1C?style=for-the-badge&logo=hackerone&logoColor=white">
   <img src="https://img.shields.io/badge/Go-%23E94E1B.svg?style=for-the-badge&logo=go&logoColor=white">
   <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black">
 </p>
 
+---
+
+## 🧠 A Few Cool Things I Do  
+
+- I build **tools** that help spot weaknesses in systems — before the bad guys do.  
+- I’ve helped companies **test their defenses** with real-world cyberattack simulations.  
+- My scripts aren’t just powerful — they look cool too.  
+- I run **The Hacker News (বাংলা)**, where we spread awareness, drop security tips, and build a community that *actually cares* about internet safety.
 
 ---
 
-## 📈 GitHub Stats  
+## 📖 A Bit of My Story
+
+Once upon a time (okay, not *that* long ago), I started sharing cybersecurity tips, tricks, and tools. It started small. But then **thnbangladesh** grew into something more — a **movement**. A place where people came to learn, protect, and share. 
+
+But like any good story, ours had a few plot twists.
+
+We hit some tough times — from banned channels to burnout. There were moments we thought it was all over. But then, something amazing happened: **you**. Your messages, support, and faith brought us back to life.
+
+So, we’re back. Stronger. Smarter. Hungrier. And we’re just getting started.
+
+---
+
+## ✨ What I Believe In
+
+I believe the internet should be safe for *everyone*.  
+I believe in breaking systems **to fix them**.  
+I believe in education, open knowledge, and community.  
+And I believe that no challenge is too big when you’ve got passion (and Python).
+
+---
+
+## 📊 GitHub Snapshot
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FrostFoe&theme=radical&hide_border=true" alt="GitHub Streak"><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FrostFoe&theme=radical&hide_border=true" alt="GitHub Streak">
 </p>
 
 ---
 
-## 🌟 Did you know?  
-- My **personal projects** have been used for real-world cyberattacks for defense testing.  
-- I build **custom tools** to automate security workflows and discover vulnerabilities faster.  
-- My scripts and solutions are praised for being clean, **optimized**, and **cool-looking**.  
+## 📬 Let’s Link Up!
 
----
-
-## 🔮 Vision  
-I believe in **making the internet a safer place** for everyone while pushing the boundaries of technology. Whether it's by **disrupting outdated systems** or building **futuristic applications**, my mission is to inspire change and elevate innovation.
-
----
-
-## 🌟 Connect With Me  
+Wanna geek out about security? Need a tool recommendation? Just wanna say hey? I’m only one click away 👇
 
 <p align="center">
   <a href="https://twitter.com/FrostFoe">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
   </a>
   <a href="https://t.me/FrostFoe">
-    <img src="https://img.shields.io/badge/Telegram-%232CA5E0.svg?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram">
+    <img src="https://img.shields.io/badge/Telegram-%232CA5E0.svg?style=for-the-badge&logo=Telegram&logoColor=white">
   </a>
   <a href="https://www.instagram.com/FrostFoe/">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
   </a>
   <a href="https://discordapp.com/users/1234567890">
-    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=Discord&logoColor=white" alt="Discord">
+    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=Discord&logoColor=white">
   </a>
 </p>
 
 ---
 
-<p align="center">👾 Keep hacking, keep learning, and stay curious! 👾</p>
-
+<p align="center">👾 Keep hacking, keep learning, and never stop being curious. The internet needs people like you. 👾</p>
